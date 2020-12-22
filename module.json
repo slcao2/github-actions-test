@@ -3,7 +3,7 @@
   "title": "Quick Rolls",
   "description": "A module for quicker rolling in FoundryVTT.",
   "author": "Steven Cao",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "system": ["dnd5e"],
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.8",
